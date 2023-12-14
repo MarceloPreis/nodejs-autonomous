@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaawri7unntd6ia3vapuv4xecwyc57poaru5zco26znusaw2eqrvbja
+fingerprint=12:d4:ac:9c:ef:fb:07:01:b1:2f:76:49:67:00:18:a2
+tenancy=ocid1.tenancy.oc1..aaaaaaaatemcbaeedhn2n6ffti2hpn3ruk3lt4d7ucgzvrvl76hldydhqizq
+region=sa-vinhedo-1
+key_file=/app/.oci/marcelo.s.preis@gmail.com.pem

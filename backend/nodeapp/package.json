@@ -1,0 +1,26 @@
+{
+  "name": "ora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^5.1.0",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "dotenv": "^16.3.1",
+    "kms": "^1.0.0",
+    "oci": "^0.0.51",
+    "oci-audit": "^2.76.0",
+    "oci-common": "^2.76.0",
+    "oci-identity": "^2.76.0",
+    "oci-keymanagement": "^2.76.0",
+    "oci-secrets": "^2.76.0"
+  }
+}
